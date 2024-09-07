@@ -9,7 +9,7 @@ I   am **August Morales**, a dedicated professional immersed in the realm of tec
 - Linux Server Management
 - Management of non-relational databases **MongoDB**
 
-![SkillsMedia](docker.png)
+![SkillsMedia](python.png)
 
 
 
