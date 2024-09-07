@@ -4,6 +4,11 @@
 
 I   am **August Morales**, a dedicated professional immersed in the realm of technology. As a software developer specializing in Python, I am continuously advancing my expertise in Linux server management.
 
+## Skills
+- Python Development
+- Linux Server Management
+- Management of non-relational databases **MongoDB**
+
 
 
 
