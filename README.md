@@ -1,5 +1,3 @@
-# AugustVesper
-
 ![Contributions](github-user-contribution.svg)
 
 **💡 Python Developer| Linux Enthusiast**
