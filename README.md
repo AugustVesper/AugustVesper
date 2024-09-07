@@ -1,3 +1,3 @@
 # AugustVesper
 
-**AugustVesper/AugustVesper**
+**Python Developer| Linux Enthusiast**
