@@ -10,6 +10,11 @@ I   am **August Morales**, a dedicated professional immersed in the realm of tec
 - Management of non-relational databases **MongoDB**
 
 
+### Tools: 
+- VS Code
+- Neovim (Lua)
+- Postman
+- Docker
 
 
 
